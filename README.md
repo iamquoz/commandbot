@@ -15,4 +15,4 @@ to display an image
 
 (no quote marks everywhere)
 
-**if bot goes offline, you lose all your saved commands**
+**before launching the bot, make sure there's an empty file called commands.json in the directory, it'll store all the commands added via .add and in case of a shut down, all commands will be resored**
