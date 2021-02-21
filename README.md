@@ -1,5 +1,5 @@
 # commandbot
-an hour worth of work on this bot
+an hour worth of work on this discord bot
 
 to add a command for bot to use
 
